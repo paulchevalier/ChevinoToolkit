@@ -29,9 +29,9 @@ void setup(void) {
 }
 
 void loop(void) {
-  PORTB = PORTB | 0x01;
+  PORTB = PORTB | 0x10;
   delay(1000);
-  PORTB = PORTB & ~0x01;
+  PORTB = PORTB & ~0x10;
   delay(1000);
 }
 
