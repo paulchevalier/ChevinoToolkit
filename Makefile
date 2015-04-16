@@ -1,5 +1,5 @@
 #
-# This is the main.c file of a basic programming environnement for chevinos
+# This is the Makefile of a basic programming environnement for chevinos
 # Copyright 2014-2015 Paul Chevalier
 #
 #
